@@ -1,0 +1,1 @@
+print(6) #Imprime el valor 6 del objeto entero

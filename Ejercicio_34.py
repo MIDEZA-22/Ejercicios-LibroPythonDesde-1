@@ -1,0 +1,1 @@
+print("Python",3.9,"Básico",sep="**")   #Objetos separados por **

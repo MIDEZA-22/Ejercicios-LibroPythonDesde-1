@@ -1,0 +1,1 @@
+print("Python","Hola Python",sep="_",end="*\n") #"/n Es un salto de línea"

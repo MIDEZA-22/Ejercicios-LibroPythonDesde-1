@@ -1,0 +1,1 @@
+print('xyz',(2,3,4),sep='==>')  #Objetos separados por ==>

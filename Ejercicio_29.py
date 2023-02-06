@@ -1,0 +1,1 @@
+print("Python",3.9) #Imprime los valores de dos objetos
